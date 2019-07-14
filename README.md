@@ -1,4 +1,4 @@
-## FTW Capstone Project - Employee Happiness
+## FTW Capstone Project - Sentiment Analysis (FinTech)
 Members:
 - Jen
 - Lea
