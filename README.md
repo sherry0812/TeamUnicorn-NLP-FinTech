@@ -1,5 +1,5 @@
 ## FTW Capstone Project
-Description: An NLP Machine Learning for a company
+    Description: An NLP Machine Learning for a company
 
 ### Team Unicorn Members:
     - Jen
