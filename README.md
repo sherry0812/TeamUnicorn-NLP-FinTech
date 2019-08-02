@@ -2,9 +2,9 @@
 Description: An NLP Machine Learning for a company
 
 ### Team Unicorn Members:
->  - Jen
->  - Lea
->  - Cherry
+    - Jen
+    - Lea
+    - Cherry
 
 ### Content:
 > 1. Data Cleaning
