@@ -23,7 +23,7 @@
         - Naive Bayes (sklearn)
         - Support Vector Machines (sklearn)
         - Random Forest Classifier (sklearn)
-### Requirements
+### Requirements:
     python 3.7.1
     pandas 0.25.1
     numpy 1.15.4
