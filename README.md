@@ -27,7 +27,7 @@
     python 3.7.1
     pandas 0.25.1
     numpy 1.15.4
-    re 2019.4.14
-    sklearn 0.20.1
+    regex 2019.4.14
+    scikit-learn 0.20.1
     gensim 3.8.0
     nltk 3.4
